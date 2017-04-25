@@ -5,7 +5,7 @@ Muito se fala de como os cientistas devem se esforçar para se aproximar das pes
 Se você conhece algum site ou portal muito legal (canal de vídeos, site, blog, portal ou podcast) e ele não está aqui na lista, pode deixar a sua sugestão aqui mesmo, mandar uma DM lá no [Twitter](https://twitter.com/GracielleHigino) ou me mandar [uma cartinha](mailto:graciellehigino@hotmail.com).
 
 ### Bom proveito!  
-
+___
   
 ## Canais do YouTube  
 
