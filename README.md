@@ -4,7 +4,8 @@ Muito se fala de como os cientistas devem se esforçar para se aproximar das pes
 ## Ajudando a construir a lista  
 Se você conhece algum site ou portal muito legal (canal de vídeos, site, blog, portal ou podcast) e ele não está aqui na lista, pode deixar a sua sugestão aqui mesmo, mandar uma DM lá no [Twitter](https://twitter.com/GracielleHigino) ou me mandar [uma cartinha](mailto:graciellehigino@hotmail.com).
 
-# Bom proveito!  
+Bom proveito!  
+-------------  
   
   ***
 ## Canais do YouTube  
@@ -17,7 +18,7 @@ Se você conhece algum site ou portal muito legal (canal de vídeos, site, blog,
 [Museu de Ciência da Universidade de Coimbra](https://www.youtube.com/channel/UC9RgCTeI3QQrARRf-CoYnfA/videos)  
 [Museu da Vida](https://www.youtube.com/user/museudavida/videos)  
   
-##Sites e blogs  
+## Sites e blogs  
 
 [Hipótese Nula](https://medium.com/hipótese-nula)  
 [Canal Ciência](www.canalciencia.ibict.br)  
@@ -50,7 +51,7 @@ Se você conhece algum site ou portal muito legal (canal de vídeos, site, blog,
 [Imagine Só!](http://ciencia.estadao.com.br/blogs/herton-escobar/)  
 [O Eco](http://www.oeco.org.br)  
   
-##Podcasts:  
+## Podcasts  
   
 [Dragões de Garagem (dentro do SciBlogsBR)](http://dragoesdegaragem.com/podcast/)  
 [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/)  
