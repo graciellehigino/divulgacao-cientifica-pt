@@ -8,9 +8,9 @@ ___
 
 [Science Vlogs](https://www.youtube.com/channel/UCqiD87j08pe5NYPZ-ncZw2w/channels)  
 [Drauzio Varella](https://www.youtube.com/user/drdrauziovarella)  
-[ClickCiência UFSCAR](https://www.youtube.com/channel/UC9GFu08xsidnYq_qiJlTcug)
-[Instante Biotec](https://www.youtube.com/instantebiotec)
-[Univesp TV](https://www.youtube.com/user/univesptv)  
+[ClickCiência UFSCAR](https://www.youtube.com/channel/UC9GFu08xsidnYq_qiJlTcug)  
+[Instante Biotec](https://www.youtube.com/instantebiotec)  
+[Univesp TV](https://www.youtube.com/user/univesptv)    
 [Nerdologia](https://www.youtube.com/user/nerdologia)  
 [Museu de Ciência da Universidade de Coimbra](https://www.youtube.com/channel/UC9RgCTeI3QQrARRf-CoYnfA/videos)  
 [Museu da Vida](https://www.youtube.com/user/museudavida/videos)  
