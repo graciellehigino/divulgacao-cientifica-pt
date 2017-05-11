@@ -14,6 +14,8 @@ ___
 [Nerdologia](https://www.youtube.com/user/nerdologia)  
 [Museu de Ciência da Universidade de Coimbra](https://www.youtube.com/channel/UC9RgCTeI3QQrARRf-CoYnfA/videos)  
 [Museu da Vida](https://www.youtube.com/user/museudavida/videos)  
+[BláBláLogia](https://www.youtube.com/channel/UC3Ooj_iDWELBumIEDejyNHQ)  
+[Canal do Pirula](https://www.youtube.com/user/Pirulla25)  
   
 ## Sites e blogs  
 
