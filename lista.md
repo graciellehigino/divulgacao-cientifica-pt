@@ -6,17 +6,18 @@ ___
 
 ## Canais do YouTube  
 
-[Science Vlogs](https://www.youtube.com/channel/UCqiD87j08pe5NYPZ-ncZw2w/channels)  
-[Drauzio Varella](https://www.youtube.com/user/drdrauziovarella)  
-[ClickCiência UFSCAR](https://www.youtube.com/channel/UC9GFu08xsidnYq_qiJlTcug)  
-[Instante Biotec](https://www.youtube.com/instantebiotec)  
-[Univesp TV](https://www.youtube.com/user/univesptv)    
-[Nerdologia](https://www.youtube.com/user/nerdologia)  
-[Museu de Ciência da Universidade de Coimbra](https://www.youtube.com/channel/UC9RgCTeI3QQrARRf-CoYnfA/videos)  
-[Museu da Vida](https://www.youtube.com/user/museudavida/videos)  
 [BláBláLogia](https://www.youtube.com/channel/UC3Ooj_iDWELBumIEDejyNHQ)  
 [Canal do Pirula](https://www.youtube.com/user/Pirulla25)  
-  
+[ClickCiência UFSCAR](https://www.youtube.com/channel/UC9GFu08xsidnYq_qiJlTcug)  
+[Drauzio Varella](https://www.youtube.com/user/drdrauziovarella)  
+[Instante Biotec](https://www.youtube.com/instantebiotec)  
+[Museu de Ciência da Universidade de Coimbra](https://www.youtube.com/channel/UC9RgCTeI3QQrARRf-CoYnfA/videos)  
+[Museu da Vida](https://www.youtube.com/user/museudavida/videos)  
+[Nerdologia](https://www.youtube.com/user/nerdologia)  
+[OFICiência](https://www.youtube.com/channel/UCiDKjLbFHsl0MIN5g6txuxA/)  
+[Science Vlogs](https://www.youtube.com/channel/UCqiD87j08pe5NYPZ-ncZw2w/channels)  
+[Univesp TV](https://www.youtube.com/user/univesptv)    
+
 ## Sites e blogs  
 
 [Hipótese Nula](https://medium.com/hipótese-nula)  
