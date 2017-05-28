@@ -86,3 +86,5 @@ ___
 [Alô, Ciência](http://alociencia.com.br)  
 [Rock com Ciência](http://www.rockcomciencia.com.br)  
 [Scicast](http://www.deviante.com.br/podcasts/scicast/)  
+[PODEntender](http://dragoesdegaragem.com/podentender/)  
+
