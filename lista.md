@@ -82,10 +82,11 @@ ___
   
 ## Podcasts  
   
+[Alô, Ciência](http://alociencia.com.br)  
 [Dragões de Garagem (dentro do SciBlogsBR)](http://dragoesdegaragem.com/podcast/)  
 [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/)  
-[Alô, Ciência](http://alociencia.com.br)  
+[O Nicho](https://onichopodcast.wordpress.com/)  
+[PODEntender](http://dragoesdegaragem.com/podentender/)  
 [Rock com Ciência](http://www.rockcomciencia.com.br)  
 [Scicast](http://www.deviante.com.br/podcasts/scicast/)  
-[PODEntender](http://dragoesdegaragem.com/podentender/)  
 
