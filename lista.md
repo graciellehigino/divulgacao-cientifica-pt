@@ -80,6 +80,7 @@ ___
 [Imagine Só!](http://ciencia.estadao.com.br/blogs/herton-escobar/)  
 [O Eco](http://www.oeco.org.br)  
 [O que você faria se soubesse o que eu sei?](http://oquevocefariasesoubesse.blogspot.com.br/?m=1)  
+[Nicho42](https://medium.com/nicho42/)
   
 ## Podcasts  
   
