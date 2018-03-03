@@ -60,6 +60,7 @@ ___
 [Ceticismo](http://ceticismo.net)  
 [Ciência Hoje](http://www.cienciahoje.org.br)  
 [Ciência Hoje Crianças](http://www.chc.org.br)  
+[Ciência Informativa](http://cienciainformativa.com.br/pt_BR/)  
 [Darwin e Deus](http://darwinedeus.blogfolha.uol.com.br/)  
 [Darwinianas](https://darwinianas.com)  
 [Direto da Ciência](www.diretodaciencia.com)  
@@ -89,6 +90,7 @@ ___
 ## Podcasts  
   
 [Alô, Ciência](http://alociencia.com.br)  
+[Ciência Informativa](http://cienciainformativa.com.br/pt_BR/podcasts/)  
 [Dragões de Garagem (dentro do SciBlogsBR)](http://dragoesdegaragem.com/podcast/)  
 [Eco-Evolução](https://www.unifal-mg.edu.br/ecofrag/podcast-eco-evolucao/)  
 [Eureka](https://soundcloud.com/eureka-pod/)  
