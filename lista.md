@@ -80,7 +80,7 @@ ___
 [O Eco](http://www.oeco.org.br)  
 [O que você faria se soubesse o que eu sei?](http://oquevocefariasesoubesse.blogspot.com.br/?m=1)  
 [Papo de Primata](http://papodeprimata.com.br)  
-[Portal Deviante](http://www.deviante.com.br/)
+[Portal Deviante](http://www.deviante.com.br/)  
 [Revista Bioika](https://revistabioika.org/pt/)  
 [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br)  
 [Science Blogs](http://scienceblogs.com.br)  
