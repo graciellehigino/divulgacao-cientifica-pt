@@ -51,6 +51,7 @@ ___
 
 [AstroPT](http://www.astropt.org/)  
 [Avoando](http://conexaoplaneta.com.br/blog/category/avoando/)  
+[A ciência explica](http://www.cienciaexplica.com.br/)  
 [Bate Papo com Netuno](http://batepapocomnetuno.blogspot.com.br/)  
 [Bioquímica Brasil](http://www.bioquimicabrasil.com)  
 [Blogs de ciência da UNICAMP](www.blogs.ea2.unicamp.br/)  
