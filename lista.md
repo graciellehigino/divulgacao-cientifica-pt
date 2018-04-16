@@ -20,6 +20,7 @@ ___
 [Ciência todo dia](https://www.youtube.com/channel/UCn9Erjy00mpnWeLnRqhsA1g)  
 [ClickCiência UFSCAR](https://www.youtube.com/channel/UC9GFu08xsidnYq_qiJlTcug)  
 [Colecionadores de Ossos](https://www.youtube.com/channel/UCjcEWCkuafL02yvkujCwL4w)  
+[ComCiência Corporal](https://www.youtube.com/channel/UCM1gu2yWlpvzzIyRSB8PMBA)  
 [Cura Quântica](https://www.youtube.com/channel/UCP2nmeXrkrrPBBc8CqIb8Bw)  
 [Dispersciência](https://www.youtube.com/channel/UCUgarxqakK33XeFA4nHG2HA)  
 [Drauzio Varella](https://www.youtube.com/user/drdrauziovarella)  
