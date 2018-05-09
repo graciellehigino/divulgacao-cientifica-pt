@@ -38,6 +38,7 @@ ___
 [Museu da Vida](https://www.youtube.com/user/museudavida/videos)  
 [Natureza & Ciência](https://www.youtube.com/channel/UCADw3eAgZkFx1sa8pWBY-xA)  
 [Nerdologia](https://www.youtube.com/user/nerdologia)  
+[O Incrível Pontinho Azul](https://www.youtube.com/channel/UCOLnE7ioY6Bax_3AiiXDg7g)  
 [O Físico Turista](https://www.youtube.com/channel/UCV8ZgEjwdNnZC4_FJtdDFCg)  
 [Olá Ciência](https://www.youtube.com/channel/UCrSM1UV_KLAdTzgxyxl3POw)  
 [OFICiência](https://www.youtube.com/channel/UCiDKjLbFHsl0MIN5g6txuxA/)  
