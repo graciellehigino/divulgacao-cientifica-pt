@@ -73,6 +73,7 @@ ___
 [Evolucionismo](http://evolucionismo.org/)  
 [Gene Repórter (e links listados no blog)](http://genereporter.blogspot.com.br)  
 [Hipótese Nula](https://medium.com/hipótese-nula)  
+[Ilha do Conhecimento](http://ilhadoconhecimento.com.br/)  
 [Imagine Só!](http://ciencia.estadao.com.br/blogs/herton-escobar/)  
 [Jornal da Ciência](http://www.jornaldaciencia.org.br)  
 [Jovem Explorador](http://www.jovemexplorador.iag.usp.br/)  
