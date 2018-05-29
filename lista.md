@@ -102,7 +102,7 @@ ___
 [Eco-Evolução](https://www.unifal-mg.edu.br/ecofrag/podcast-eco-evolucao/)  
 [Eureka](https://soundcloud.com/eureka-pod/)  
 [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/)  
-[Naruhodo](http://www.b9.com.br/podcasts/naruhodo/)  
+[Naruhodo](http://www.b9.com.br/podcasts/naruhodo/)  
 [Microbiando](http://www.cienciaexplica.com.br/microbiando/)  
 [Moléculas](http://www.ladmolqm.com.br/moleculas/)  
 [O Nicho](https://onichopodcast.wordpress.com/)  
