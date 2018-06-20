@@ -14,6 +14,7 @@ ___
 [Caio na Aula](https://www.youtube.com/channel/UCLEQMN2aaUD9VfBVPxG0IOg)  
 [Canal do Pirula](https://www.youtube.com/user/Pirulla25)  
 [Canal do Slow](https://www.youtube.com/channel/UCl10NIdDOn9MMWdKNyo_YdA)  
+[Canal Nostalgia](https://www.youtube.com/user/fecastanhari/videos)  
 [Canal Zoa](https://www.youtube.com/channel/UClXvx3XjUHM5z_SvrfTNu3A)  
 [Ceticismo.net](https://www.youtube.com/channel/UChkPByjtZumJrJmtqkiw5Jg)  
 [Ciência e Astronomia](https://www.youtube.com/user/cienciaeastronomia)  
