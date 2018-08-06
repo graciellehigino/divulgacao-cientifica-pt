@@ -14,6 +14,7 @@ ___
 [Caio na Aula](https://www.youtube.com/channel/UCLEQMN2aaUD9VfBVPxG0IOg)  
 [Canal do Pirula](https://www.youtube.com/user/Pirulla25)  
 [Canal do Slow](https://www.youtube.com/channel/UCl10NIdDOn9MMWdKNyo_YdA)  
+[Canal Metrologia](https://www.youtube.com/channel/UCeb_sMFmq1x8xRr-NbvTurw/featured)  
 [Canal Nostalgia](https://www.youtube.com/user/fecastanhari/videos)  
 [Canal Zoa](https://www.youtube.com/channel/UClXvx3XjUHM5z_SvrfTNu3A)  
 [Ceticismo.net](https://www.youtube.com/channel/UChkPByjtZumJrJmtqkiw5Jg)  
@@ -64,6 +65,7 @@ ___
 [Café e Ciência](http://www.cafeeciencia.com.br/)  
 [Café na Bancada](http://cafe-na-bancada.com.br)  
 [Canal Ciência](www.canalciencia.ibict.br)  
+[Canal Metrologia](https://canalmetrologia.com.br/)  
 [Ceticismo](http://ceticismo.net)  
 [Ciência Hoje](http://www.cienciahoje.org.br)  
 [Ciência Hoje Crianças](http://www.chc.org.br)  
@@ -100,6 +102,7 @@ ___
   
 [4curiosos](https://soundcloud.com/user-766096508)  
 [Alô, Ciência](http://alociencia.com.br)  
+[Canal Metrologia](https://canalmetrologia.com.br/category/podcast/)  
 [Ciência Informativa](http://cienciainformativa.com.br/pt_BR/podcasts/)  
 [Dragões de Garagem](http://dragoesdegaragem.com/podcast/)  
 [Eco-Evolução](https://www.unifal-mg.edu.br/ecofrag/podcast-eco-evolucao/)  
