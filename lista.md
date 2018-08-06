@@ -51,6 +51,7 @@ ___
 [Science Vlogs](https://www.youtube.com/channel/UCqiD87j08pe5NYPZ-ncZw2w/channels)  
 [SpaceToday](https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A)  
 [Univesp TV](https://www.youtube.com/user/univesptv)    
+[Universo Discreto](https://www.youtube.com/c/UniversoDiscreto)  
 
 ## Sites e blogs  
 
@@ -97,6 +98,7 @@ ___
   
 ## Podcasts  
   
+[4curiosos](https://soundcloud.com/user-766096508)  
 [Alô, Ciência](http://alociencia.com.br)  
 [Ciência Informativa](http://cienciainformativa.com.br/pt_BR/podcasts/)  
 [Dragões de Garagem](http://dragoesdegaragem.com/podcast/)  
