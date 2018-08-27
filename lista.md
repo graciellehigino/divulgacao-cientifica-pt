@@ -102,6 +102,7 @@ ___
   
 [4curiosos](https://soundcloud.com/user-766096508)  
 [Alô, Ciência](http://alociencia.com.br)  
+[Biomedcast](https://biomedcast.com/)  
 [Canal Metrologia](https://canalmetrologia.com.br/category/podcast/)  
 [Ciência Informativa](http://cienciainformativa.com.br/pt_BR/podcasts/)  
 [Dragões de Garagem](http://dragoesdegaragem.com/podcast/)  
