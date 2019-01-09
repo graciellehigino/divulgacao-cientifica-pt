@@ -1,8 +1,13 @@
 # Lista de sites e portais de DC em português
+[Canais do Telegram](#canais-do-telegram)  
 [Canais do YouTube](#canais-do-youtube)  
 [Sites e Blogs](#sites-e-blogs)  
-[Podcasts](#podcasts)
+[Podcasts](#podcasts)  
 ___
+
+## Canais do Telegram  
+[Banco de Sementes](https://t.me/bancodesementes)  
+[Ciência e Tecnologia](https://t.me/cienciatecnologia)  
 
 ## Canais do YouTube  
 
@@ -105,11 +110,14 @@ ___
 [Biomedcast](https://biomedcast.com/)  
 [Canal Metrologia](https://canalmetrologia.com.br/category/podcast/)  
 [Ciência Informativa](http://cienciainformativa.com.br/pt_BR/podcasts/)  
+[Deixe-me ir](https://www.lucianoqueiroz.com.br/category/podcast/)  
+[DesAbraçando Árvores](https://www.desabrace.com.br/)  
 [Dragões de Garagem](http://dragoesdegaragem.com/podcast/)  
 [Eco-Evolução](https://www.unifal-mg.edu.br/ecofrag/podcast-eco-evolucao/)  
 [Eureka](https://soundcloud.com/eureka-pod/)  
 [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/)  
 [Naruhodo](http://www.b9.com.br/podcasts/naruhodo/)  
+[Nerdcast (só episódios sobre ciência)](https://jovemnerd.com.br/nerdcast/?search=&theme=ciencias&page=1)  
 [Microbiando](http://www.cienciaexplica.com.br/microbiando/)  
 [Moléculas](http://www.ladmolqm.com.br/moleculas/)  
 [O Nicho](https://onichopodcast.wordpress.com/)  
@@ -117,4 +125,5 @@ ___
 [PODEntender](http://dragoesdegaragem.com/podentender/)  
 [Rock com Ciência](http://www.rockcomciencia.com.br)  
 [Scicast](http://www.deviante.com.br/podcasts/scicast/)  
+[Serendip](http://www.cienciaexplica.com.br/category/podcast/serendip/)  
 [Sociedade Brasileira de Nefrologia](http://www.deviante.com.br/podcasts/sociedade-brasileira-de-nefrologia/)  
