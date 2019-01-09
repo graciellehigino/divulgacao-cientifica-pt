@@ -122,7 +122,7 @@ ___
 [Moléculas](http://www.ladmolqm.com.br/moleculas/)  
 [O Nicho](https://onichopodcast.wordpress.com/)  
 [Oxigênio](http://oxigenio.comciencia.br/)  
-[PODEntender](http://dragoesdegaragem.com/podentender/)  
+[PODEntender](https://podentender.com/)  
 [Rock com Ciência](http://www.rockcomciencia.com.br)  
 [Scicast](http://www.deviante.com.br/podcasts/scicast/)  
 [Serendip](http://www.cienciaexplica.com.br/category/podcast/serendip/)  
